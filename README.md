@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Janaya aka @JnyZroh</h1>
-<h3 align="center">an aspiring full-stack developer from the US</h3>
+<h3 align="center">an aspiring full-stack developer from the US, currently living in Montreal, QC, Canada</h3>
 
 <p>This winter, 2022, I completed a full-time intensive bootcamp with Le Wagon in Montreal, QC, Canada. 
 In 10 short weeks, I strengthened my skills in HTML and CSS (utilizing the beautiful and powerful Bootstrap) 
